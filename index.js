@@ -36,4 +36,4 @@ document.querySelector(".search-bar").addEventListener("keyup", function(event){
     weather.search();
 });
 
-weather.fetchWeather("Bikaner");
+weather.fetchWeather("Alwar");
